@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Simple Bed
+* source:	https://sketchfab.com/3d-models/a-simple-bed-4f984f20c54a491cb3fd0d147ad0039d
+* author:	Ali107_YT (https://sketchfab.com/Ali_Army107)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Simple Bed" (https://sketchfab.com/3d-models/a-simple-bed-4f984f20c54a491cb3fd0d147ad0039d) by Ali107_YT (https://sketchfab.com/Ali_Army107) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
